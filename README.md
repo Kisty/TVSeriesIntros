@@ -12,4 +12,4 @@ How It Works
 2. Determine which noise is the theme tune.
 3. Fingerprint all episodes listening for the theme tune.
 4. Slice the video files from start to time where match was found for fingerprint.
-5. Joing all output files together.
+5. Join all output files together.
