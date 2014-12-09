@@ -1,0 +1,11 @@
+apply plugin: 'application'
+
+mainClassName = "com.sceneclipper.officeIntros.TVIntros"
+
+dependencies {
+    compile files('lib/musicg-1.4.2.0.jar')
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.0'
+}
